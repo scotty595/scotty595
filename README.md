@@ -1,9 +1,101 @@
-### Hi there, I'm Scott 👋
+# Hi there, I'm Scott 👋
 
- - 🔭 I’m currently working on building the best platform for early stage start-ups with [@Antler-VC](https://github.com/Antler-VC), and building the only organisational change management platform you'll ever need with [@sortd-io](https://github.com/sortd-io) 
- - 👯 I’m looking to collaborate on new product ideas, start-up strategy, product management, or organisational change.
- - 💬 Ask me about anything start-up, product, organisational change, consulting related.
- - 📫 How to reach me: scott@sortd.io or scott@antler.co
- - ⚡ Fun fact: I speak mandarin and lived in Harbin, China for a year.
+## 🚀 What I'm Building
 
-![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scotty595&count_private=true)
+**[DriftOS](https://github.com/DriftOS)** – Conversation graph engine for AI
+
+Turning flat chats into explainable, navigable graphs. When AI conversations drift, we branch.
+
+- 🌳 Automatic branching on semantic + functional drift
+- 🧠 Time-decay clustering for natural memory
+- 🎯 Deterministic orchestration with full observability
+- 📊 Production-ready TypeScript infrastructure
+
+**Status:** Seed stage | Patent filed (70+ USPTO claims) | London-based
+
+🌐 [driftos.dev](https://driftos.dev) • 📧 scott@driftos.dev
+
+---
+
+## 💼 Background
+
+**Current:**
+- 🚀 **Founder & CEO** @ DriftOS (2024–Present)
+  - Building patent-protected conversation memory infrastructure
+  - Raised targeting £2M seed (Q1 2026)
+  - UK Global Talent Visa recipient
+
+**Previous:**
+- 🏢 **Technical Product Manager** @ Antler (Acting Head of Product)
+  - Led product strategy for early-stage venture builder
+  
+- 📈 **Tech Lead/Product Engineer** @ Launch Academy
+  - Scaled to 10,000 users in 9 months
+  - EdTech platform for startup founders
+
+- 🏛️ **Product Manager** @ Dept. of Justice Queensland
+  - Digital transformation and process optimization
+
+- 💻 **Ex-IBM** & Consulting
+
+---
+
+## 🛠️ Tech Stack
+
+**Currently using:**
+```
+TypeScript • Node.js • React • PostgreSQL • Prisma
+Docker • Grafana • Prometheus • Vector Search
+```
+
+**Interested in:**
+```
+AI/ML • Graph Databases • Real-time Systems
+Distributed Systems • Developer Infrastructure
+```
+
+---
+
+## 🎯 What I'm Focused On
+
+**Now:**
+- Building DriftOS to production scale
+- Closing seed funding round
+- Building founding team in London
+- Expanding patent portfolio
+
+**Looking for:**
+- 🤝 Design partner customers (AI product teams)
+- 💼 Strategic investors (seed round)
+- 👥 Founding engineers (London-based)
+- 🔬 Technical partnerships
+
+---
+
+## 🌍 Fun Facts
+
+- ⚡ Lived in Harbin, China for a year
+- 🗣️ Speak Mandarin
+- ☕ Coffee enthusiast (obviously)
+
+---
+
+## 📫 Get In Touch
+
+**DriftOS inquiries:**
+- 🌐 [driftos.dev](https://driftos.dev)
+- 📧 scott@driftos.dev
+- 🏢 [@DriftOS](https://github.com/DriftOS)
+
+**Personal:**
+- 💼 [LinkedIn](https://linkedin.com/in/swaddell)
+
+**Currently based in:** 📍 London, UK
+
+---
+
+<div align="center">
+  <p><em>When conversations drift, we branch.</em> 🌳</p>
+  <p><strong>Building the memory infrastructure AI deserves</strong></p>
+</div>
+```
