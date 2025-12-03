@@ -21,9 +21,7 @@ Turning flat chats into explainable, navigable graphs. When AI conversations dri
 
 **Current:**
 - 🚀 **Founder & CEO** @ DriftOS (2024–Present)
-  - Building patent-protected conversation memory infrastructure
-  - Raised targeting £2M seed (Q1 2026)
-  - UK Global Talent Visa recipient
+  - Building conversation memory infrastructure
 
 **Previous:**
 - 🏢 **Technical Product Manager** @ Antler (Acting Head of Product)
