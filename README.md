@@ -11,7 +11,7 @@ Turning flat chats into explainable, navigable graphs. When AI conversations dri
 - 🎯 Deterministic orchestration with full observability
 - 📊 Production-ready TypeScript infrastructure
 
-**Status:** Seed stage | Patent filed (70+ USPTO claims) | London-based
+**Status:** Patent filed (70+ USPTO claims) | London-based 
 
 🌐 [driftos.dev](https://driftos.dev) • 📧 scott@driftos.dev
 
