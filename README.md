@@ -58,13 +58,12 @@ Distributed Systems • Developer Infrastructure
 
 **Now:**
 - Building DriftOS to production scale
-- Closing seed funding round
-- Building founding team in London
+- Releasing Open Source
 - Expanding patent portfolio
+- Chasing interesting problems
 
 **Looking for:**
 - 🤝 Design partner customers (AI product teams)
-- 💼 Strategic investors (seed round)
 - 👥 Founding engineers (London-based)
 - 🔬 Technical partnerships
 
