@@ -1,98 +1,53 @@
-# Hi there, I'm Scott 👋
+# Hi there, I'm Scotty 👋
 
 ## 🚀 What I'm Building
 
-**[DriftOS](https://github.com/DriftOS)** – Conversation graph engine for AI
+**Chief Product Officer @ [Lua AI](https://heylua.ai)** (YC F25)
 
-Turning flat chats into explainable, navigable graphs. When AI conversations drift, we branch.
+Building the operating system for AI agents — runtime, memory, governance, and orchestration for teams that want agents that actually do things in the real world.
 
-- 🌳 Automatic branching on semantic + functional drift
-- 🧠 Time-decay clustering for natural memory
-- 🎯 Deterministic orchestration with full observability
-- 📊 Production-ready TypeScript infrastructure
+**Shipping:**
+- 🛡️ **[Governance SDK](https://heygovernance.ai)** – Runtime policy enforcement for AI agent fleets. MIT licensed.
+- 🍯 **[Honeycomb](https://heyhoneycomb.ai)** – Shared organisational memory for multi-agent systems. Entity extraction, temporal versioning, hybrid retrieval, graph traversal.
+- 🖥️ **Lua Desktop** – Native app for building and managing AI agents. Tauri + React + TypeScript. Your first agent in 2 seconds.
+- 🐝 **HIVE** – Multi-agent orchestration architecture powering Lua's internal agent fleet.
 
-**Status:** Patent filed (70+ USPTO claims) | London-based 
-
-🌐 [driftos.dev](https://driftos.dev) • 📧 scott@driftos.dev
+**Also:** [DriftOS](https://github.com/DriftOS) – Conversation memory infrastructure (2 US provisional patents, 70+ claims). Sidelined while shipping the above. When AI conversations drift, we branch. 🌳
 
 ---
 
 ## 💼 Background
 
-**Current:**
-- 🚀 **Founder & CEO** @ DriftOS (2024–Present)
-  - Building conversation memory infrastructure
-
-**Previous:**
-- 🏢 **Technical Product Manager** @ Antler (Acting Head of Product)
-  - Led product strategy for early-stage venture builder
-  
-- 📈 **Tech Lead/Product Engineer** @ Launch Academy
-  - Scaled to 10,000 users in 9 months
-  - EdTech platform for startup founders
-
+- 🎯 **CPO** @ Lua AI — YC F25, 300+ agents across 160 businesses in 10+ countries
+- 🚀 **Founder** @ DriftOS — Conversation graph engine, patent-pending
+- 📈 **Acting Head of Product** @ Antler — Scaled Launch Academy 0→10,000+ users
 - 🏛️ **Product Manager** @ Dept. of Justice Queensland
-  - Digital transformation and process optimization
-
-- 💻 **Ex-IBM** & Consulting
+- 💻 **Ex-IBM** & consulting
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Currently using:**
 ```
-TypeScript • Node.js • React • PostgreSQL • Prisma
-Docker • Grafana • Prometheus • Vector Search
+TypeScript • Node.js • React • Rust • PostgreSQL • Prisma
+Qdrant • Docker • AWS/k8s • Tauri • MCP • Temporal.io
 ```
-
-**Interested in:**
-```
-AI/ML • Graph Databases • Real-time Systems
-Distributed Systems • Developer Infrastructure
-```
-
----
-
-## 🎯 What I'm Focused On
-
-**Now:**
-- Building DriftOS to production scale
-- Releasing Open Source
-- Expanding patent portfolio
-- Chasing interesting problems
-
-**Looking for:**
-- 🤝 Design partner customers (AI product teams)
-- 👥 Founding engineers (London-based)
-- 🔬 Technical partnerships
-
----
-
-## 🌍 Fun Facts
-
-- ⚡ Lived in Harbin, China for a year
-- 🗣️ Speak Mandarin
-- ☕ Coffee enthusiast (obviously)
 
 ---
 
 ## 📫 Get In Touch
 
-**DriftOS inquiries:**
-- 🌐 [driftos.dev](https://driftos.dev)
-- 📧 scott@driftos.dev
-- 🏢 [@DriftOS](https://github.com/DriftOS)
-
-**Personal:**
+- 🛡️ [heygovernance.ai](https://heygovernance.ai)
+- 🍯 [heyhoneycomb.ai](https://heyhoneycomb.ai)
+- 🚀 [heylua.ai](https://heylua.ai)
 - 💼 [LinkedIn](https://linkedin.com/in/swaddell)
+- 📧 scott@heylua.ai
 
-**Currently based in:** 📍 London, UK
+**Based in:** 📍 London, UK
 
 ---
 
 <div align="center">
-  <p><em>When conversations drift, we branch.</em> 🌳</p>
-  <p><strong>Building the memory infrastructure AI deserves</strong></p>
+  <p><em>Ship AI agents the board will sign off on.</em> 🛡️</p>
+  <p><strong>Building the agent OS at Lua AI</strong></p>
 </div>
-```
