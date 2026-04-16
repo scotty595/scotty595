@@ -18,7 +18,7 @@ Building the operating system for AI agents — runtime, memory, governance, and
 
 ## 💼 Background
 
-- 🎯 **CPO** @ Lua AI — YC F25, 300+ agents across 160 businesses in 10+ countries
+- 🎯 **CPO** @ Lua AI — YC F25, 500+ agents across 160 businesses in 10+ countries
 - 🚀 **Founder** @ DriftOS — Conversation graph engine, patent-pending
 - 📈 **Acting Head of Product** @ Antler — Scaled Launch Academy 0→10,000+ users
 - 🏛️ **Product Manager** @ Dept. of Justice Queensland
