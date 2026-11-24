@@ -58,4 +58,4 @@ MCP • OAuth 2.1 / DCR • Fly.io • Vercel • Docker • Turborepo • Biome
 
 ---
 
-📍 London · [louvain.ai](https://louvain.ai) · [louvain-engine](https://github.com/louvain-ai/louvain-engine) · [LinkedIn](https://linkedin.com/in/swaddell) · scott@louvain.ai
+📍 London · [louvain.ai](https://louvain.ai) · [louvain-engine](https://github.com/louvain-ai/louvain-engine) · [LinkedIn](https://linkedin.com/in/shipsfast) · scott@louvain.ai
